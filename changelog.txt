@@ -1,13 +1,13 @@
 A new update (W1D2) is available, which contains:
 
 * 4 New Songs!
-  Bubtop's Bubtoptorial
-  Mole
-  Nosy
-  H-Man
-  Syobub No Rhythm!
+    Bubtop's Bubtoptorial
+    Mole
+    Nosy
+    H-Man
+    Syobub No Rhythm!
 * 1 New Remix!
-  Bully (Mole Funtastic Mix)
+    Bully (Mole Funtastic Mix)
 * New Menus
 * Custom Results Screen
 * Moved from base Funkin' to Troll Engine
