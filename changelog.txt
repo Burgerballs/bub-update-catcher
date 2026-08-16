@@ -1,4 +1,6 @@
 A new update (W1D2H2) is available, which contains:
 
-* Reimplementation of how highscores are evaluated, allowing you to keep song unlocks when changing scoring systems and such.
-* Fixes a bug in the Mixtape menu involving the "Combo Breaks" judgement counter not updating in songs without a score.
+* Reimplementation of how highscores are evaluated, allowing you to keep 
+song unlocks when changing scoring systems and such.
+* Fixes a bug in the Mixtape menu involving the "Combo Breaks" 
+judgement counter not updating in songs without a score.
